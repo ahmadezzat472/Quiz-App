@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #244c5a;
+    padding: 15px;
+}
+
+img {
+    width: 150px;
+    height: 160px;
+}
+
+.title {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .img {
+        display: none;
+    }
+
+    img {
+        width: 130px;
+        height: 140px;
+    }
+
+    .title {
+        margin: 15px 0 5px;
+        font-size: 20px;
+    }
+
+    .header {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1199px) and (min-width: 768px) {
+    .title {
+        font-size: 20px;
+    }
+}

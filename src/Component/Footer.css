@@ -1,0 +1,7 @@
+@media (max-width: 767px) {
+    .quiz-notice {
+        padding: 20px 10px 30px !important;
+        width: auto !important;
+        margin: none !important;
+    }
+}
