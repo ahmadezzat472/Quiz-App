@@ -29,18 +29,12 @@ img {
     }
 
     .title {
-        margin: 15px 0 5px;
-        font-size: 20px;
+        margin: 25px 0 8px;
+        font-size: 25px;
     }
 
     .header {
         flex-direction: column;
         justify-content: center;
-    }
-}
-
-@media (max-width: 1199px) and (min-width: 768px) {
-    .title {
-        font-size: 20px;
     }
 }

@@ -26,6 +26,7 @@ function Footer() {
         margin: 'auto',
         color: '#626262',
         fontSize: '14px',
+        lineHeight: '1.6'
     }
 
     return (
