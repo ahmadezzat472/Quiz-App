@@ -1,9 +1,16 @@
 .App {
-    width: 90%;
+    width: 60%;
     margin: auto;
     box-shadow: 1rem 1rem 3rem 0 rgba(0, 0, 0, .2);
     border-radius: 3rem 0;
     border: none;
     overflow: hidden;
     background: white;
+}
+
+@media (max-width: 767px) {
+    .App {
+        width: 95%;
+
+    }
 }
