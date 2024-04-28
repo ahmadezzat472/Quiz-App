@@ -33,6 +33,11 @@ img {
         height: 110px;
     }
 
+    .logo {
+        width: 110px;
+        height: 110px;
+    }
+
     .title {
         margin: 25px 0 8px;
         font-size: 25px;
