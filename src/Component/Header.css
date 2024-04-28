@@ -11,6 +11,11 @@ img {
     height: 140px;
 }
 
+.logo {
+    width: 90px;
+    height: 100px;
+}
+
 .title {
     color: white;
     font-size: 25px;
