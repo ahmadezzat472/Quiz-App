@@ -2,13 +2,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #244c5a;
+    background-color: #B18BBE;
     padding: 15px;
 }
 
 img {
-    width: 150px;
-    height: 160px;
+    width: 130px;
+    height: 140px;
 }
 
 .title {
@@ -24,8 +24,8 @@ img {
     }
 
     img {
-        width: 130px;
-        height: 140px;
+        width: 110px;
+        height: 110px;
     }
 
     .title {
